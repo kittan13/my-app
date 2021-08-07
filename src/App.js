@@ -8,7 +8,7 @@ function App() {
          <header class="l-header">
             <nav class="nav bd-grid">
                 <div>
-                    <a href="#" class="nav__logo">北村 拓也</a>
+                    <a href="#" class="nav__logo">Welocome to my portfolio site</a>
                 </div>
 
                 <div class="nav__menu" id="nav-menu">
@@ -45,13 +45,18 @@ function App() {
 
                 <div className="about__container bd-grid">
                     <div className="about__img">
-                        <img src="assets/img/perfil.png" alt=""/>
+                        <img src="kittann icon.jpg" alt=""/>
                     </div>
 
                     <div>
                         <h2 class="about__subtitle">I'am kitamura Takuya</h2>
                         <span className="about__profession">Front-end engineer</span>
-                        <p className="about__text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci consectetur, architecto quas fugiat, iste inventore facere repellendus delectus id, vitae blanditiis.</p>
+                        <p className="about__text">
+                        　こんにちは、北村拓也です。
+                        </p>
+                        <p className="about__text">
+                        将来フロントエンドエンジニアとして働いていけるようにちょっとずつ頑張っています。
+                        </p>
 
                         <div className="about__social">
                             <a href="#" className="about__social-icon"><i className='bx bxl-linkedin' ></i></a>
@@ -71,15 +76,15 @@ function App() {
                         <span className="skills__name">Html</span>
                         <span className="skills__name">Css</span>
                         <span className="skills__name">Javascript</span>
-                        <span className="skills__name">Scss</span>
                         <span className="skills__name">React</span>
                         
                         <h3 className="skills__subtitle">Design</h3>
+                        <span class="skills__name">Photoshop</span>
                        
                     </div>
 
                     <div className="skills__img">
-                        <img src="assets/img/skill.jpg" alt=""/>
+                        <img src="public/img/skill.jpg" alt=""/>
                     </div>
                 </div>
             </section>
@@ -97,7 +102,7 @@ function App() {
                         </div>
                     </div>
                     <div className="portfolio__img">
-                        <img src="assets/img/work2.jpg" alt=""/>
+                        <img src="public/work2.jpg" alt=""/>
 
                         <div className="portfolio__link">
                             <a href="#" className="portfolio__link-name">View details</a>
@@ -140,13 +145,13 @@ function App() {
                 <div className="contact__container bd-grid">
                     <div className="contact__info">
                         <h3 className="contact__subtitle">EMAIL</h3>
-                        <span className="contact__text">info.mail.com</span>
+                        <span className="contact__text">kittan@yahooo.com</span>
 
                         <h3 className="contact__subtitle">PHONE</h3>
-                        <span className="contact__text">+20 999-999</span>
+                        <span className="contact__text">+80 97○○-○○○○</span>
 
                         <h3 className="contact__subtitle">ADRESS</h3>
-                        <span className="contact__text">My contry</span>
+                        <span className="contact__text">京都府○○市○○区</span>
                     </div>
 
                     <form action="" className="contact__form">
