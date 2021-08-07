@@ -75,9 +75,7 @@ function App() {
                         <span className="skills__name">React</span>
                         
                         <h3 className="skills__subtitle">Design</h3>
-                        <span className="skills__name">Figma</span>
-                        <span className="skills__name">Adobe XD</span>
-                        <span className="skills__name">Photoshop</span>
+                       
                     </div>
 
                     <div className="skills__img">
