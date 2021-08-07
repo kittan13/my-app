@@ -49,8 +49,8 @@ function App() {
                     </div>
 
                     <div>
-                        <h2 className="about__subtitle">I'am Jhon Doe</h2>
-                        <span className="about__profession">Web designer</span>
+                        <h2 class="about__subtitle">I'am kitamura Takuya</h2>
+                        <span className="about__profession">Front-end engineer</span>
                         <p className="about__text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci consectetur, architecto quas fugiat, iste inventore facere repellendus delectus id, vitae blanditiis.</p>
 
                         <div className="about__social">
@@ -73,7 +73,6 @@ function App() {
                         <span className="skills__name">Javascript</span>
                         <span className="skills__name">Scss</span>
                         <span className="skills__name">React</span>
-                        <span className="skills__name">Vue</span>
                         
                         <h3 className="skills__subtitle">Design</h3>
                         <span className="skills__name">Figma</span>
